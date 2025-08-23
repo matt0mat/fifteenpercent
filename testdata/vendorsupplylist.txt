@@ -1,0 +1,611 @@
+Document: Generate a document titled 'Vendor and Supplier List' for a sunglass retail store. The document should list at least three key suppliers. For each supplier, include: Vendor Name, Contact Person and their email, Products Supplied (e.g., 'Frames, lenses'), and a brief note on the 'Terms of Agreement' (e.g., 'Net 30 payment', 'Minimum order of 50 units').
+Vendor and Supplier List
+Vendor Name 	Contact Person 	Email 	Products Supplied 	Terms of Agreement
+SunStyle Co. 	Jessica Reynolds 	jessica.reynolds@sunstyle.com 	Frames, polarized lenses 	Net 30 payment, Minimum order of 100 units
+ClearVision Supplies 	Mark Thompson 	mark.thompson@clearvision.com 	Prescription lenses, accessories 	Net 15 payment, Free shipping on orders over $500
+ShadeMasters Inc. 	Linda Garcia 	linda.garcia@shademasters.com 	Sunglass frames, UV protection coatings 	Net 30 payment, Minimum order of 50 units
+
+SunStyle Co. is a well-established supplier known for its high-quality frames and polarized lenses. They offer a wide range of stylish options that appeal to various customer demographics. Their payment terms are flexible, allowing for net 30 days, but they require a minimum order of 100 units to ensure cost efficiency.
+
+ClearVision Supplies specializes in prescription lenses and various accessories, catering to both retail and wholesale markets. They pride themselves on quick turnaround times and excellent customer service. Their terms include a net 15 payment structure and free shipping on orders exceeding $500, making them an attractive option for bulk purchases.
+
+ShadeMasters Inc. focuses on producing stylish sunglass frames with advanced UV protection coatings. They are known for their innovative designs and commitment to sustainability. Their agreement terms are set at net 30 days with a minimum order quantity of 50 units, ensuring that even smaller retailers can access their products.
+Supplier 1
+Vendor Name 	Contact Person 	Email
+Visionary Shades 	Sarah Johnson 	sarah.johnson@visionary.com
+
+Visionary Shades is a reputable supplier known for its high-quality eyewear products. They specialize in a variety of sunglass frames and lenses, catering to both fashion and sports markets.
+
+Products Supplied:
+
+    Sunglass Frames
+    Polarized Lenses
+    UV Protection Lenses
+
+Terms of Agreement:
+
+    Payment Terms: Net 30
+    Minimum Order: 50 units
+    Shipping: Free for orders over $1,000
+    Lead Time: 2-3 weeks for standard orders
+
+Visionary Shades offers a robust selection of trendy designs and materials, ensuring that the store remains competitive in the ever-evolving eyewear market. Their customer service is commendable, with dedicated representatives available for support.
+1. Vendor Name: Acme Sunglasses
+Vendor Name: Acme Sunglasses
+
+Acme Sunglasses is a well-established supplier specializing in high-quality eyewear products. With over 15 years in the industry, they are known for their innovative designs and durable materials. Their commitment to quality and customer satisfaction makes them a reliable choice for our sunglass retail store.
+Contact Information
+
+    Contact Person: Jane Doe
+    Email: jane.doe@acmesunglasses.com
+
+Products Supplied
+
+    Frames
+    Lenses
+    Accessories (e.g., cleaning cloths, cases)
+
+Terms of Agreement
+
+    Payment Terms: Net 30
+    Minimum Order: 50 units
+    Shipping: Free shipping on orders over $1,000
+    Return Policy: 30-day return policy on defective items
+
+Product Type 	Description 	Price Range
+Frames 	Various styles and colors 	$25 - $150
+Lenses 	Prescription and non-prescription options 	$10 - $80
+Accessories 	Cleaning cloths, cases 	$1 - $15
+
+Acme Sunglasses also offers seasonal promotions and volume discounts, which can be advantageous for bulk purchases. Maintaining a strong relationship with Acme is essential for ensuring a steady supply of trendy and durable eyewear for our customers.
+2. Contact Person: Jane Doe
+Vendor Name 	Contact Person 	Email 	Products Supplied 	Terms of Agreement
+Visionary Frames 	Jane Doe 	jane.doe@visionaryframes.com 	Frames, Lenses, Accessories 	Net 30 payment, Minimum order of 50 units
+BrightLens Co. 	John Smith 	john.smith@brightlensco.com 	Polarized Lenses, Cases 	Net 15 payment, Free shipping on orders over $200
+SunGuard Supplies 	Emily Johnson 	emily.johnson@sunguardsupplies.com 	UV Protection Sunglasses 	Net 30 payment, Minimum order of 30 units
+
+Visionary Frames is a leading supplier known for their stylish and durable frames. They offer a wide variety of designs, catering to different customer preferences.
+
+    Contact Person: Jane Doe
+    Email: jane.doe@visionaryframes.com
+    Products Supplied: Frames, Lenses, Accessories
+
+Terms of Agreement:
+
+    Payment is due within 30 days of invoice date (Net 30).
+    A minimum order of 50 units is required to ensure bulk pricing.
+
+This supplier is particularly beneficial for the store as they frequently update their product lines, keeping up with current fashion trends. Their customer service is highly rated, providing prompt responses to inquiries and support for order placements.
+3. Email: jane.doe@acmesunglasses.com
+Vendor and Supplier List
+Supplier 1: Acme Sunglasses
+
+    Contact Person: Jane Doe
+    Email: jane.doe@acmesunglasses.com
+    Products Supplied: Frames, Lenses, Accessories
+    Terms of Agreement:
+        Net 30 payment
+        Minimum order of 50 units
+
+Acme Sunglasses is known for their high-quality frames and a diverse range of lenses to suit various customer needs. They also offer a selection of trendy accessories, including cases and cleaning kits.
+Supplier 2: Visionary Eyewear
+
+    Contact Person: John Smith
+    Email: john.smith@visionaryeyewear.com
+    Products Supplied: Polarized Lenses, Custom Frames
+    Terms of Agreement:
+        Net 45 payment
+        Minimum order of 30 units
+
+Visionary Eyewear specializes in polarized lenses that reduce glare and enhance visual clarity. They provide custom frame options that can be tailored to meet specific retail demands.
+Supplier 3: SunGuard Optical
+
+    Contact Person: Emily Zhang
+    Email: emily.zhang@sunguardoptical.com
+    Products Supplied: Prescription Lenses, Sports Sunglasses
+    Terms of Agreement:
+        Net 30 payment
+        Minimum order of 25 units
+
+SunGuard Optical focuses on prescription lenses and sporty sunglasses designed for outdoor activities. Their innovative technology ensures UV protection while maintaining a stylish look.
+Supplier Name 	Contact Person 	Email 	Products Supplied 	Terms of Agreement
+Acme Sunglasses 	Jane Doe 	jane.doe@acmesunglasses.com 	Frames, Lenses, Accessories 	Net 30, Min 50 units
+Visionary Eyewear 	John Smith 	john.smith@visionaryeyewear.com 	Polarized Lenses, Custom Frames 	Net 45, Min 30 units
+SunGuard Optical 	Emily Zhang 	emily.zhang@sunguardoptical.com 	Prescription Lenses, Sports Sunglasses 	Net 30, Min 25 units
+
+This vendor and supplier list provides an overview of the primary partners for our sunglass retail store, ensuring we maintain a consistent and quality product offering for our customers.
+4. Products Supplied: Frames, Lenses
+Vendor Name 	Contact Person 	Email 	Products Supplied 	Terms of Agreement
+SunVision Optics 	Sarah Thompson 	sarah.thompson@sunvision.com 	Frames, Lenses, Accessories 	Net 30 payment, Minimum order of 100 units
+ClearView Shades 	Michael Anderson 	michael.anderson@clearview.com 	Polarized Lenses, Sports Goggles 	Net 15 payment, Minimum order of 75 units
+Urban Specs Co. 	Jessica Lee 	jessica.lee@urbanspecs.com 	Designer Frames, Kids Collection 	50% upfront, Minimum order of 50 units
+
+SunVision Optics is known for its high-quality frames and lenses suitable for various customer demographics. They offer a wide selection, from stylish fashion frames to durable sports eyewear. The company emphasizes timely delivery and flexible payment terms, making them a reliable partner for our inventory needs.
+
+ClearView Shades specializes in polarized lenses, which are increasingly popular among outdoor enthusiasts. Their product range includes high-performance sports goggles, catering to an active lifestyle. ClearView offers competitive terms, allowing for quicker turnover of stock while maintaining a healthy cash flow.
+
+Urban Specs Co. provides a curated selection of designer frames alongside a vibrant kids' collection. Their unique designs appeal to fashion-forward consumers, ensuring that our store remains trendy and relevant. The payment structure requires a 50% upfront payment, which helps manage initial costs while securing fashionable products for our clientele.
+5. Terms of Agreement: Net 30 payment, Minimum order of 50 units
+Vendor Name 	Contact Person 	Email 	Products Supplied 	Terms of Agreement
+SunStyle Optics 	Sarah Johnson 	sarah.johnson@sunstyle.com 	Frames, Lenses 	Net 30 payment, Minimum order of 100 units
+ClearVision Co. 	Michael Thompson 	michael.thompson@clearvision.com 	Polarized Lenses, Accessories 	Net 30 payment, Minimum order of 75 units, 5% discount on orders over $500
+ShadeMasters Inc. 	Emily Davis 	emily.davis@shademasters.com 	Designer Frames, UV Protection 	Net 45 payment, Minimum order of 50 units, Free shipping on orders over $300
+
+SunStyle Optics
+SunStyle Optics is known for their high-quality frames and lenses. They offer a variety of styles, catering to both budget-conscious customers and those looking for premium eyewear. Their products are popular among retailers for their durability and trendy designs.
+
+    Contact Person: Sarah Johnson
+    Email: sarah.johnson@sunstyle.com
+    Terms of Agreement:
+        Payment due within 30 days of invoice date.
+        Minimum order quantity set at 100 units.
+
+ClearVision Co.
+ClearVision Co. specializes in polarized lenses and various eyewear accessories. Their innovative lens technology provides customers with enhanced visual clarity, making their products a favorite among outdoor enthusiasts.
+
+    Contact Person: Michael Thompson
+    Email: michael.thompson@clearvision.com
+    Terms of Agreement:
+        Payment terms are net 30 days.
+        Minimum order is 75 units.
+        A 5% discount is applied for orders exceeding $500.
+
+ShadeMasters Inc.
+ShadeMasters Inc. focuses on designer frames that offer UV protection. Their stylish products are frequently featured in fashion magazines, appealing to a clientele that values both aesthetics and functionality.
+
+    Contact Person: Emily Davis
+    Email: emily.davis@shademasters.com
+    Terms of Agreement:
+        Payment is due within 45 days.
+        The minimum order quantity is 50 units.
+        Free shipping is available on orders over $300.
+
+Supplier 2
+Supplier 2
+
+Vendor Name: Coastal Optics Inc.
+Contact Person: Sarah Johnson
+Email: sarah.johnson@coastaloptics.com
+
+Products Supplied:
+
+    Prescription lenses
+    Polarized lenses
+    Lens coatings (anti-reflective, scratch-resistant)
+
+Coastal Optics Inc. has established itself as a premier supplier of high-quality lenses that cater to various customer needs. Their commitment to innovation and quality assurance makes them a reliable partner for our sunglass retail store.
+Terms of Agreement
+
+    Payment Terms: Net 30 payment
+    Minimum Order Requirement: 100 units
+    Delivery Timeframe: 7-10 business days after order confirmation
+
+Product Type 	Unit Price (USD) 	MOQ
+Prescription lenses 	$30 	100
+Polarized lenses 	$45 	100
+Lens coatings 	$15 	100
+
+For any inquiries or additional information, please reach out to Sarah Johnson directly via the provided email. Coastal Optics Inc. frequently offers promotional deals that could benefit our store's inventory and customer offerings.
+1. Vendor Name: Visionary Eyewear
+Vendor Name: Visionary Eyewear
+
+Visionary Eyewear is a leading supplier known for its high-quality frames and innovative lens technology. Established in 2010, they have built a strong reputation in the eyewear industry, focusing on stylish designs and durability.
+Contact Information
+
+    Contact Person: Sarah Thompson
+    Email: sarah.thompson@visionaryeyewear.com
+
+Products Supplied
+
+    Frames
+    Lenses
+    Accessories (e.g., cases, cleaning cloths)
+
+Terms of Agreement
+
+    Payment Terms: Net 30 days
+    Minimum Order Quantity: 50 units
+    Shipping: Free shipping on orders over $500
+    Return Policy: 30-day return window for defective products
+
+Product Type 	Price Range 	Lead Time
+Frames 	$25 - $100 	2 weeks
+Lenses 	$10 - $50 	1 week
+Accessories 	$5 - $20 	3 days
+
+Visionary Eyewear also offers seasonal promotions and discounts for bulk orders, making it an attractive option for our retail needs. They provide excellent customer service and are responsive to our inquiries, ensuring a smooth procurement process.
+2. Contact Person: John Smith
+Vendor and Supplier List
+Vendor Name 	Contact Person 	Email 	Products Supplied 	Terms of Agreement
+Sunglasses Co. 	John Smith 	john.smith@sunglassesco.com 	Frames, Lenses, Accessories 	Net 30 payment, Minimum order of 100 units
+Visionary Optics 	Sarah Johnson 	sarah.johnson@visionaryoptics.com 	Polarized Lenses, Prescription Lenses 	Net 15 payment, Free shipping on orders over $500
+Trendy Shades Inc. 	Mark Thompson 	mark.thompson@trendysunglasses.com 	Fashion Frames, UV Protection Coatings 	Net 30 payment, Minimum order of 50 units
+
+John Smith is a key contact for Sunglasses Co., a prominent supplier known for their high-quality frames and lenses. He has been instrumental in maintaining a steady supply chain for our store, ensuring that we have the latest styles and options for our customers.
+Key Details:
+
+    Email: john.smith@sunglassesco.com
+    Products Supplied:
+        Frames
+        Lenses
+        Accessories
+
+Terms of Agreement:
+
+    Payment Terms: Net 30, which allows us to settle payments within 30 days of invoice receipt.
+    Minimum Order: A minimum order quantity of 100 units is required, ensuring that we receive adequate stock to meet customer demands.
+
+By maintaining a good relationship with John Smith and Sunglasses Co., we can ensure a diverse product offering that appeals to a wide range of customers.
+3. Email: john.smith@visionaryeyewear.com
+Vendor and Supplier List
+Supplier 1: Visionary Eyewear
+
+    Contact Person: John Smith
+    Email: john.smith@visionaryeyewear.com
+    Products Supplied:
+        Frames
+        Lenses
+        Sunglass Accessories
+
+Terms of Agreement:
+
+    Payment Due: Net 30
+    Minimum Order: 50 units
+    Shipping: Free for orders over $500
+
+Supplier 2: SunGuard Optics
+
+    Contact Person: Sarah Johnson
+    Email: sarah.johnson@sunguardoptics.com
+    Products Supplied:
+        Polarized Lenses
+        UV Protection Coatings
+        Custom Designs
+
+Terms of Agreement:
+
+    Payment Due: Net 45
+    Minimum Order: 30 units
+    Discounts: 10% off for orders exceeding $1,000
+
+Supplier 3: Luxe Shades Co.
+
+    Contact Person: Michael Lee
+    Email: michael.lee@luxeshadesco.com
+    Products Supplied:
+        Designer Frames
+        Specialty Sunglasses
+        Limited Edition Collections
+
+Terms of Agreement:
+
+    Payment Due: Due on delivery
+    Minimum Order: 20 units
+    Returns: 30-day return policy for defective products
+
+Supplier Name 	Contact Person 	Email 	Payment Terms 	Minimum Order
+Visionary Eyewear 	John Smith 	john.smith@visionaryeyewear.com 	Net 30 	50 units
+SunGuard Optics 	Sarah Johnson 	sarah.johnson@sunguardoptics.com 	Net 45 	30 units
+Luxe Shades Co. 	Michael Lee 	michael.lee@luxeshadesco.com 	Due on delivery 	20 units
+
+This table provides a quick reference for the key suppliers, their contact details, and the terms governing our agreements with them.
+4. Products Supplied: Sunglass Cases, Cleaning Kits
+Vendor Name 	Contact Person 	Email 	Products Supplied 	Terms of Agreement
+ClearView Supplies 	Sarah Thompson 	sarah.thompson@clearview.com 	Sunglass Cases, Cleaning Kits 	Net 30 payment, Minimum order of 100 units
+OpticGuard Systems 	Michael Reyes 	michael.reyes@opticguard.com 	Sunglass Cases, Microfiber Cloths 	Prepayment required for first order, Minimum order of 50 units
+VisionProtect Inc. 	Linda Martinez 	linda.martinez@visionprotect.com 	Cleaning Kits, Protective Pouches 	Net 15 payment, Volume discount available for orders over 200 units
+
+ClearView Supplies is a trusted vendor that has been in the industry for over 10 years. They specialize in high-quality sunglass cases and cleaning kits designed to enhance the retail experience. Their products are known for durability and style, making them a popular choice among retailers.
+
+    Contact Person: Sarah Thompson
+    Email: sarah.thompson@clearview.com
+    Terms of Agreement: ClearView operates on a Net 30 payment schedule, and they require a minimum order of 100 units. This allows for flexibility in stock management while ensuring a steady supply.
+
+OpticGuard Systems offers a wide range of protective accessories for sunglasses, including cases and microfiber cloths. Their focus on innovation and functionality makes them a key supplier for retailers looking to provide comprehensive care for their products.
+
+    Contact Person: Michael Reyes
+    Email: michael.reyes@opticguard.com
+    Terms of Agreement: For new clients, OpticGuard requires prepayment on the first order, with a minimum order quantity set at 50 units. This ensures commitment and streamlines initial transactions.
+
+VisionProtect Inc. has carved out a niche in the market with their eco-friendly cleaning kits and protective pouches. Their commitment to sustainability and quality has attracted a loyal customer base, making them an essential partner for retailers aiming to enhance their brand image.
+
+    Contact Person: Linda Martinez
+    Email: linda.martinez@visionprotect.com
+    Terms of Agreement: VisionProtect operates on a Net 15 payment schedule and offers volume discounts for orders exceeding 200 units, incentivizing larger purchases for retailers.
+
+5. Terms of Agreement: Net 45 payment, Minimum order of 100 units
+Vendor and Supplier List
+Supplier 1: Sunshine Eyewear Co.
+
+    Contact Person: Jessica Tran
+    Email: jtran@sunshineeyewear.com
+    Products Supplied: Frames, Lenses, Accessories
+    Terms of Agreement:
+        Payment: Net 30
+        Minimum Order: 50 units
+        Additional Note: Offers a 5% discount on orders over $1,000.
+
+Supplier 2: Visionary Lens Labs
+
+    Contact Person: Mark Robinson
+    Email: mrobinson@visionarylens.com
+    Products Supplied: Prescription Lenses, Polarized Lenses
+    Terms of Agreement:
+        Payment: Net 45
+        Minimum Order: 100 units
+        Additional Note: Free shipping on orders above $500 and a loyalty program for repeat customers.
+
+Supplier 3: Style Shades Inc.
+
+    Contact Person: Emily Chen
+    Email: echen@styleshades.com
+    Products Supplied: Fashion Sunglasses, UV Protection Sunglasses
+    Terms of Agreement:
+        Payment: Net 30
+        Minimum Order: 75 units
+        Additional Note: Special seasonal promotions offered quarterly.
+
+Supplier Name 	Contact Person 	Email 	Products Supplied 	Payment Terms 	Minimum Order
+Sunshine Eyewear Co. 	Jessica Tran 	jtran@sunshineeyewear.com 	Frames, Lenses, Accessories 	Net 30 	50 units
+Visionary Lens Labs 	Mark Robinson 	mrobinson@visionarylens.com 	Prescription, Polarized Lenses 	Net 45 	100 units
+Style Shades Inc. 	Emily Chen 	echen@styleshades.com 	Fashion, UV Protection Sunglasses 	Net 30 	75 units
+
+This vendor and supplier list is crucial for maintaining a steady inventory of quality sunglasses and related products, ensuring that the store can meet customer demand while managing costs effectively.
+Supplier 3
+Supplier 3
+
+Vendor Name: Visionary Eyewear Co.
+Contact Person: Sarah Thompson
+Email: sarah.thompson@visionaryeyewear.com
+
+Products Supplied:
+
+    Sunglass Frames
+    Lenses
+    Accessories (e.g., cases, cleaning cloths)
+
+Terms of Agreement:
+
+    Payment Terms: Net 30
+    Minimum Order Quantity: 100 units
+    Discount Structure: 10% off orders over $2,000
+
+Visionary Eyewear Co. is known for its innovative designs and high-quality materials, making them a reliable partner for our sunglass retail needs. Their product range includes both trendy and classic styles, ensuring that we can cater to a wide audience.
+Product Type 	Description 	Unit Price
+Sunglass Frames 	Variety of styles and colors 	$15
+Lenses 	UV protection and polarized options 	$10
+Accessories 	Includes cases and cleaning cloths 	$2
+
+In addition to their competitive pricing, Visionary Eyewear Co. offers excellent customer support, which is crucial for maintaining a smooth supply chain. They provide promotional materials and training for our staff to enhance sales effectiveness.
+1. Vendor Name: Luxe Shades Co.
+Luxe Shades Co.
+
+Luxe Shades Co. is a premium supplier specializing in high-end sunglasses and accessories. They are known for their stylish designs and quality materials, making them a popular choice for upscale retail environments. Their commitment to sustainability is also noteworthy, as they utilize eco-friendly materials in their production processes.
+Contact Information
+
+    Contact Person: Sarah Thompson
+    Email: sarah.thompson@luxeshades.com
+
+Products Supplied
+
+    Frames
+    Lenses
+    Accessories (e.g., cases, cleaning cloths)
+
+Terms of Agreement
+
+    Payment Terms: Net 30 payment
+    Minimum Order Quantity: 50 units
+    Shipping: Free shipping on orders over $1,000
+    Returns: 30-day return policy for defective items
+
+Product Category 	Price Range 	Lead Time
+Frames 	$50 - $150 	2 weeks
+Lenses 	$20 - $70 	1 week
+Accessories 	$5 - $30 	1 week
+
+Luxe Shades Co. provides robust marketing support, including promotional materials and digital assets, to help retailers effectively showcase their products. They also offer seasonal collections, which can attract customers looking for the latest trends in eyewear.
+2. Contact Person: Emily Johnson
+Vendor and Supplier List
+Vendor Name 	Contact Person 	Email 	Products Supplied 	Terms of Agreement
+Visionary Frames 	Emily Johnson 	emily.johnson@visionaryframes.com 	Frames, Lenses 	Net 30 payment, Minimum order of 50 units
+ClearView Optics 	Mark Thompson 	mark.thompson@clearviewoptics.com 	Polarized Lenses, Accessories 	2% discount for orders over $1,000, Net 45 payment
+SunShield Supplies 	Sarah Lee 	sarah.lee@sunshieldsupplies.com 	UV Protection Spray, Display Stands 	Net 30 payment, Free shipping on orders over $500
+
+Emily Johnson is the primary contact for Visionary Frames, a supplier specializing in high-quality frames and lenses that cater to a wide range of customer preferences. Her expertise in the eyewear industry makes her a valuable resource for our store.
+
+    Email Communication: Emily is responsive and typically replies within 24 hours.
+    Support Availability: She is available for consultations on product selection every Tuesday and Thursday.
+
+The terms of agreement with Visionary Frames are straightforward:
+
+    Payment Terms: Net 30, allowing our store to pay within 30 days of invoice receipt.
+    Minimum Order: A minimum order of 50 units is required, ensuring we maintain a well-stocked inventory.
+
+In addition to the products supplied, Emily often provides insights into trends in the eyewear market, which helps in curating our product offerings effectively.
+3. Email: emily.johnson@luxeshadesco.com
+Vendor Name 	Contact Person 	Email 	Products Supplied 	Terms of Agreement
+Luxe Shades Co. 	Emily Johnson 	emily.johnson@luxeshadesco.com 	Frames, lenses, accessories 	Net 30 payment, minimum order of 100 units
+SunGuard Supplies 	Mark Thompson 	mark.thompson@sunguardsupplies.com 	Polarized lenses, cases 	Net 45 payment, free shipping over $500
+Visionary Styles 	Sarah Lee 	sarah.lee@visionarystyles.com 	Designer frames, clips 	50% upfront, minimum order of 75 units
+
+Luxe Shades Co. specializes in high-quality frames and lenses that appeal to a range of customers, from budget-conscious shoppers to luxury seekers. They pride themselves on their innovative designs and sustainability efforts, ensuring that many of their products are made from recycled materials.
+
+    Contact Person: Emily Johnson
+    Email: emily.johnson@luxeshadesco.com
+    Products Supplied: Frames, lenses, accessories
+
+The terms of agreement with Luxe Shades Co. stipulate a net 30 payment period, allowing the retail store to pay for products within 30 days after delivery. Additionally, there is a minimum order requirement of 100 units, which encourages bulk purchasing and supports inventory management.
+
+SunGuard Supplies offers a diverse range of polarized lenses and protective cases that are essential for any sunglass retailer. Their products are known for durability and UV protection, making them a popular choice among outdoor enthusiasts.
+
+    Contact Person: Mark Thompson
+    Email: mark.thompson@sunguardsupplies.com
+    Products Supplied: Polarized lenses, cases
+
+SunGuard Supplies operates under a net 45 payment term, which provides the store with a longer window to manage cash flow. Moreover, they offer free shipping for orders exceeding $500, making it advantageous for larger purchases.
+
+Visionary Styles focuses on designer frames and eyewear accessories, catering to a fashion-forward clientele. Their unique designs and brand collaborations help differentiate the sunglass retail store from competitors.
+
+    Contact Person: Sarah Lee
+    Email: sarah.lee@visionarystyles.com
+    Products Supplied: Designer frames, clips
+
+With Visionary Styles, the payment structure requires 50% upfront, which secures the order and helps manage production costs. They also have a minimum order requirement of 75 units, encouraging retailers to stock a variety of styles while maintaining manageable inventory levels.
+4. Products Supplied: Polarized Lenses, Frames
+Vendor Name 	Contact Person 	Email 	Products Supplied 	Terms of Agreement
+Sunglass Innovations 	Sarah Thompson 	sarah@sunglassinnovations.com 	Polarized lenses, Frames 	Net 30 payment, Minimum order of 100 units
+Visionary Eyewear 	James Parker 	james@visionaryeyewear.com 	Prescription lenses, Accessories 	Net 45 payment, No minimum order requirement
+Elite Shades 	Emily Johnson 	emily@eliteshades.com 	Designer frames, UV protection lenses 	50% upfront payment, Minimum order of 75 units
+
+Sunglass Innovations is a leading supplier known for its high-quality polarized lenses and stylish frames. The company prides itself on its innovative designs that cater to various fashion trends and customer preferences. Orders typically require a minimum of 100 units, ensuring that retail partners maintain adequate stock levels.
+
+    Contact Person: Sarah Thompson
+    Email: sarah@sunglassinnovations.com
+    Products Supplied: Polarized lenses, Frames
+    Terms of Agreement: Net 30 payment, Minimum order of 100 units
+
+Visionary Eyewear excels in providing prescription lenses and a wide range of eyewear accessories. Their commitment to quality and customer service makes them a reliable partner for retailers looking to expand their offerings. Notably, they do not impose a minimum order requirement, allowing for flexible inventory management.
+
+    Contact Person: James Parker
+    Email: james@visionaryeyewear.com
+    Products Supplied: Prescription lenses, Accessories
+    Terms of Agreement: Net 45 payment, No minimum order requirement
+
+Elite Shades specializes in designer frames and UV protection lenses, appealing to customers who seek luxury and functionality in their eyewear. They require a 50% upfront payment, ensuring a commitment from their partners, along with a minimum order of 75 units to streamline production and shipping.
+
+    Contact Person: Emily Johnson
+    Email: emily@eliteshades.com
+    Products Supplied: Designer frames, UV protection lenses
+    Terms of Agreement: 50% upfront payment, Minimum order of 75 units
+
+By collaborating with these key suppliers, the sunglass retail store can offer a diverse range of products that meet the needs of various customer demographics while ensuring compliance with supplier terms.
+5. Terms of Agreement: Prepayment required, Minimum order of 30 units
+Vendor Name 	Contact Person 	Email 	Products Supplied 	Terms of Agreement
+Sunny Accessories 	Jane Smith 	jane.smith@sunnyacc.com 	Frames, Lenses, Accessories 	Prepayment required, Minimum order of 30 units
+ClearView Optics 	Mark Johnson 	mark.j@clearviewoptics.com 	Sunglass frames, UV protection lenses 	Net 30 payment, Minimum order of 50 units
+Luxe Shades Inc. 	Emily Davis 	emily.davis@luxeshades.com 	Designer frames, polarized lenses 	50% deposit upfront, Minimum order of 20 units
+
+Sunny Accessories is a long-standing supplier known for their high-quality frames and a wide variety of lenses. They require prepayment for each order, which aids in their inventory management and ensures timely delivery. The minimum order quantity is set at 30 units, making it a flexible option for smaller retail operations.
+
+ClearView Optics specializes in functional sunglasses, particularly focused on UV protection. They offer a Net 30 payment plan, allowing businesses to manage cash flow more effectively. With a minimum order of 50 units, they cater to medium to large retailers looking to stock up on essential products.
+
+Luxe Shades Inc. provides a range of designer frames and polarized lenses that appeal to high-end customers. They require a 50% deposit upfront, which is a common practice in the luxury goods sector. Their minimum order of 20 units allows for more accessible entry points for boutiques and smaller stores.
+
+This diverse supplier list ensures a comprehensive selection of products while accommodating various payment terms and minimum order quantities.
+Additional Notes
+Additional Notes
+
+When managing relationships with our vendors and suppliers, it is essential to maintain clear communication and adhere to the terms of agreement. Below are some important considerations for our key suppliers:
+Supplier Overview
+Vendor Name 	Contact Person 	Email 	Products Supplied 	Terms of Agreement
+Visionary Frames 	Sarah Johnson 	sjohnson@visionaryframes.com 	Frames, Lenses 	Net 30 payment, Minimum order of 100 units
+Luxe Shades 	Michael Thompson 	mthompson@luxeshades.com 	Sunglasses, Accessories 	Prepayment required, No minimum order
+EcoOptics 	Emily Chen 	echen@ecooptics.com 	Sustainable Frames, Lenses 	Net 45 payment, Minimum order of 50 units
+Communication Protocol
+
+    Regular Check-Ins: Schedule quarterly meetings to discuss product availability and upcoming trends.
+    Feedback Loop: Encourage open feedback on product quality and customer preferences to enhance the collaboration.
+
+Payment Process
+
+    Ensure invoices are processed within the specified payment terms to maintain a strong vendor relationship.
+    Utilize an automated accounting system to track due dates and avoid late payments.
+
+Order Management
+
+    Keep a detailed record of order history to identify trends in purchasing and inventory management.
+    Establish a reorder threshold to prevent stockouts, particularly for best-selling items.
+
+Quality Assurance
+
+    Conduct regular quality checks on received shipments to ensure compliance with our standards.
+    Address any discrepancies immediately to maintain a good rapport with suppliers.
+
+By adhering to these notes, we can foster a sustainable and productive partnership with our suppliers, ultimately enhancing our product offerings and customer satisfaction.
+1. Review payment terms annually
+Vendor and Supplier List
+1. Review payment terms annually
+
+When managing relationships with suppliers, it is crucial to review payment terms on an annual basis to ensure they remain favorable for both parties. This practice not only helps in maintaining good vendor relationships but also supports the financial health of the business. Below is a list of key suppliers for our sunglass retail store, along with their relevant details.
+Vendor Name 	Contact Person 	Email 	Products Supplied 	Terms of Agreement
+SunGuard Optics 	Sarah Johnson 	sarah.johnson@sunguard.com 	Frames, Lenses, Accessories 	Net 30 payment, Minimum order of 100 units
+ClearVision Co. 	Mark Thompson 	mark.thompson@clearvision.com 	Polarized Lenses, Cases 	2% discount if paid within 10 days, Minimum order of 75 units
+Shades & Style 	Emily Roberts 	emily.roberts@shadesstyle.com 	Fashion Frames, UV Coating 	Net 45 payment, No minimum order requirement
+Supplier Details
+
+    SunGuard Optics
+        Contact Person: Sarah Johnson
+        Email: sarah.johnson@sunguard.com
+        Products Supplied: Frames, Lenses, Accessories
+        Terms of Agreement: Payments are due within 30 days of invoicing. There is a minimum order quantity of 100 units, which helps maintain inventory levels and ensures product availability.
+
+    ClearVision Co.
+        Contact Person: Mark Thompson
+        Email: mark.thompson@clearvision.com
+        Products Supplied: Polarized Lenses, Cases
+        Terms of Agreement: A 2% discount is offered for payments made within 10 days. Orders must meet a minimum of 75 units to qualify for this discount, incentivizing timely payments.
+
+    Shades & Style
+        Contact Person: Emily Roberts
+        Email: emily.roberts@shadesstyle.com
+        Products Supplied: Fashion Frames, UV Coating
+        Terms of Agreement: Payments are due within 45 days, with no minimum order requirement. This flexibility allows for easier product testing and inventory management.
+
+Annual Review Process
+
+To ensure that these terms are still aligned with the business strategy, the following process will be implemented:
+
+    Scheduled Review: Conduct a review meeting with each supplier at the end of Q4 every year.
+    Performance Assessment: Analyze the supplier's performance metrics, including delivery times and product quality.
+    Negotiation: Discuss potential changes in terms or pricing based on market conditions and business needs.
+
+By following this structured approach, we can adapt to changes in the market and maintain beneficial relationships with our suppliers.
+2. Maintain communication for product updates
+
+To ensure a smooth operation and timely updates on product availability, it’s essential to maintain effective communication with our suppliers. Regular interactions not only facilitate timely deliveries but also help in addressing any changes in product lines, pricing, and promotional offers. Below is a summary of our key suppliers, highlighting the importance of staying connected for product updates.
+Vendor Name 	Contact Person 	Email 	Products Supplied 	Terms of Agreement
+SunStyle Distributors 	Jane Doe 	jane.doe@sunstyle.com 	Frames, Lenses, Accessories 	Net 30 payment; Minimum order of 100 units
+ClearVision Supplies 	John Smith 	john.smith@clearvision.com 	Prescription Lenses, Cases 	Net 15 payment; No minimum order
+LuxeOptics Inc. 	Emily Johnson 	emily.johnson@luxeoptics.com 	Designer Frames, Specialty Lenses 	Net 60 payment; Minimum order of 50 units
+Communication Strategies
+
+    Regular Check-ins: Schedule bi-weekly calls with suppliers to discuss any upcoming product changes or promotions.
+    Email Updates: Utilize email newsletters to receive updates on new products or special pricing.
+    Feedback Loop: Encourage suppliers to share market trends and customer preferences, which can guide inventory decisions.
+
+Importance of Timely Updates
+
+Maintaining open lines of communication with our suppliers ensures that we are informed of:
+
+    New Product Launches: Being the first to know allows us to stock trending items quickly.
+    Price Changes: Staying updated on any price alterations helps in adjusting our retail prices accordingly.
+    Supply Chain Issues: Early notifications about potential delays can assist in managing customer expectations and inventory levels.
+
+By establishing a proactive communication framework with our vendors, we can enhance our product offerings and maintain competitive advantage in the sunglass retail market.
+3. Evaluate supplier performance quarterly
+Vendor and Supplier List
+1. Supplier Information
+Vendor Name 	Contact Person 	Email 	Products Supplied 	Terms of Agreement
+VisionWorks Inc. 	Sarah Johnson 	sjohnson@visionworks.com 	Frames, Lenses, Accessories 	Net 30 payment, Minimum order of 100 units
+Sunglass Source 	David Lee 	dlee@sunglasssource.com 	Polarized Lenses, Cases 	Net 15 payment, No minimum order
+Shades & Co. 	Maria Gonzalez 	mgonzalez@shadesco.com 	Frames, Sunglass Straps 	Prepayment required, Minimum order of 50 units
+2. Evaluation Criteria
+
+To ensure that our suppliers consistently meet our quality and service standards, we will evaluate their performance on a quarterly basis. The evaluation will focus on several key performance indicators (KPIs):
+
+    Quality of Products: Assess the defect rate and customer feedback on the products supplied.
+    Timeliness of Deliveries: Review the percentage of on-time deliveries against agreed schedules.
+    Communication: Evaluate responsiveness and clarity in communications regarding orders and issues.
+    Pricing Competitiveness: Compare pricing against market rates and the pricing of alternative suppliers.
+
+3. Evaluation Process
+
+The evaluation process will include the following steps:
+
+    Data Gathering: Collect data on the KPIs from internal sales records, customer feedback, and supplier communications.
+    Performance Review Meetings: Schedule quarterly meetings with each supplier to discuss findings, address concerns, and explore opportunities for improvement.
+    Report Creation: Document the evaluation outcomes, including any agreed-upon action items, in a performance report.
+    Follow-Up: Track the implementation of action items and adjust future evaluations as needed.
+
+Through this structured approach, we aim to foster strong partnerships with our suppliers, ensuring that they align with our business goals and customer expectations.

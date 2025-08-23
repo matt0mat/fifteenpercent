@@ -1,0 +1,525 @@
+Document: Product Catalog: A detailed list of all sunglasses sold, including SKU numbers, brand, style name, a brief description, lens type (e.g., polarized, mirror), and price. This would allow for questions about specific products and their features. for a sunglass retail store
+Product Information
+SKU 	Brand 	Style Name 	Description 	Lens Type 	Price
+SG001 	Ray-Ban 	Wayfarer Classic 	Timeless design with a sturdy frame. 	Polarized 	$154.00
+SG002 	Oakley 	Holbrook 	Sporty, stylish, and lightweight. 	Mirrored 	$130.00
+SG003 	Maui Jim 	Peahi 	Excellent clarity with a wraparound fit. 	Polarized 	$249.00
+SG004 	Persol 	PO0649 	Iconic Italian craftsmanship. 	Non-Polarized 	$299.00
+SG005 	Costa Del Mar 	Fantail 	Designed for water activities. 	Polarized 	$189.00
+SG006 	Smith Optics 	Lowdown 2 	Sleek design with enhanced vision. 	ChromaPop 	$179.00
+SG007 	Gucci 	GG0061S 	High-fashion aviator style. 	Non-Polarized 	$450.00
+SG008 	Warby Parker 	Ainsworth 	Modern and minimalist design. 	Polarized 	$95.00
+
+The product catalog provides a comprehensive overview of our sunglasses, ensuring customers can easily identify their preferred styles and features. Each entry includes relevant details to facilitate informed purchasing decisions.
+Key Features
+
+    Brand Recognition: All listed brands are well-known and trusted in the eyewear industry, ensuring quality and style.
+    Style Variations: A mix of classic and contemporary styles to suit various tastes and occasions.
+    Lens Options:
+        Polarized lenses reduce glare, making them ideal for outdoor activities.
+        Mirrored lenses enhance visual comfort and style.
+        ChromaPop technology offers superior clarity and color enhancement.
+
+Price Range
+
+Our sunglasses are competitively priced to cater to a diverse clientele:
+
+    Affordable Options: Starting at $95 for styles like Warby Parker's Ainsworth.
+    Mid-Range Selections: Quality options around $130 to $189, including Oakley and Costa Del Mar.
+    Luxury Choices: High-end styles, such as Gucci's GG0061S, priced at $450 for those looking for designer eyewear.
+
+Additional Information
+
+For inquiries about specific products, including availability and alternative lens options, customers can reach out to our customer service team. Each product is backed by our satisfaction guarantee, ensuring a worry-free shopping experience.
+1 SKU Numbers
+SKU Numbers
+
+In our product catalog, each pair of sunglasses is assigned a unique Stock Keeping Unit (SKU) number, which simplifies inventory management and enhances the shopping experience for customers. The SKU number typically consists of a combination of letters and numbers that represent the brand, style, and lens type. Below is an overview of how our SKUs are structured:
+
+    Brand Identifier (3 letters): The first three letters represent the brand name.
+    Style Code (4 digits): A unique four-digit code that identifies the specific style.
+    Lens Type Code (2 letters): Two letters that denote the lens type.
+
+Example SKU Structure:
+BRD1234PT
+
+    BRD - Brand (BrandName)
+    1234 - Style Code
+    PT - Lens Type (Polarized)
+
+To illustrate, here is a selection of sunglasses with their corresponding SKU numbers:
+SKU Number 	Brand 	Style Name 	Description 	Lens Type 	Price
+BRD1234PT 	BrandA 	Ocean View 	Classic aviator style with a metal frame and a timeless look. 	Polarized 	$99.99
+BRD5678MR 	BrandA 	Sunset Shades 	Trendy oversized sunglasses featuring a bold design and mirrored lenses. 	Mirror 	$119.99
+XYZ4321PT 	BrandB 	Sport Flex 	Lightweight sports sunglasses designed for active lifestyles with anti-slip grips. 	Polarized 	$89.99
+XYZ8765GR 	BrandB 	Urban Explorer 	Stylish square frames that blend fashion with functionality. 	Gradient 	$79.99
+QWE1112CL 	BrandC 	Retro Classic 	Vintage-inspired round frames perfect for adding a touch of nostalgia to your outfit. 	Clear 	$59.99
+
+Each SKU is designed to provide quick reference to the product's key features, allowing customers and staff to efficiently discuss and locate specific sunglasses. Additionally, using the SKU numbers can help track inventory levels and facilitate reordering processes.
+
+For any inquiries about a specific product, customers can reference the SKU number to get detailed information about the sunglasses they are interested in.
+2 Brand
+Brand
+
+At our retail store, we curate a diverse selection of sunglasses from various renowned brands. Below is a detailed list of some popular brands we carry, along with selected styles and their features. This allows customers to quickly identify the sunglasses that best fit their needs.
+Ray-Ban
+
+Ray-Ban is synonymous with classic style and superior quality. Known for their iconic frames and innovative lens technology, Ray-Ban sunglasses offer both function and fashion.
+SKU 	Style Name 	Description 	Lens Type 	Price
+RB2132 	New Wayfarer 	A modern take on the classic Wayfarer. 	Polarized 	$154.00
+RB3447 	Round Metal 	Vintage-inspired round frames with a bold look. 	Mirror 	$186.00
+RB3025 	Aviator Classic 	Timeless aviator shape with a metal frame. 	Gradient 	$186.00
+Oakley
+
+Oakley is well-known for its sporty designs and high-performance lenses. Perfect for active lifestyles, Oakley sunglasses provide durability and enhanced visual clarity.
+SKU 	Style Name 	Description 	Lens Type 	Price
+OO9208 	Radar EV Path 	Designed for athletes, featuring a large lens for maximum visibility. 	PRIZM 	$180.00
+OO9206 	Flak 2.0 XL 	Lightweight and impact-resistant, ideal for sports enthusiasts. 	Polarized 	$150.00
+OO9202 	Jawbreaker 	A full-frame design with interchangeable lenses for versatility. 	PRIZM 	$210.00
+Maui Jim
+
+Maui Jim sunglasses are celebrated for their exceptional lens technology, particularly in reducing glare and enhancing colors. They are a favorite among beachgoers and outdoor enthusiasts.
+SKU 	Style Name 	Description 	Lens Type 	Price
+409-02 	Peahi 	Stylish frames with polarized lenses for ultimate sun protection. 	Polarized 	$249.00
+404-02 	Banyans 	Wrap-around design for full coverage and maximum comfort. 	Polarized 	$239.00
+405-02 	Ho'okipa 	Lightweight and colorful, perfect for all-day wear. 	Polarized 	$229.00
+Additional Brands
+
+In addition to the brands listed above, we also stock sunglasses from other esteemed manufacturers, such as:
+
+    Prada: Known for high-fashion designs and premium materials.
+    Costa Del Mar: Specializes in sunglasses for fishing and water sports.
+    Smith Optics: Offers innovative designs and eco-friendly materials.
+
+Customers are encouraged to check the full catalog for a comprehensive list of all available products. This extensive range ensures that there's something for everyone, whether you seek luxury, sports performance, or stylish everyday wear.
+3 Style Name
+SKU 	Brand 	Style Name 	Description 	Lens Type 	Price
+SG-1001 	Ray-Ban 	Wayfarer Classic 	Iconic silhouette with a bold, stylish frame. 	Polarized 	$154.00
+SG-1002 	Oakley 	Holbrook 	Sporty design, perfect for outdoor activities. 	Mirrored 	$140.00
+SG-1003 	Maui Jim 	Peahi 	Lightweight and durable, ideal for water sports. 	Polarized 	$189.00
+SG-1004 	Persol 	714 	Timeless style with a refined finish. 	Non-Polarized 	$300.00
+SG-1005 	Costa Del Mar 	Fantail 	Designed for serious anglers with superior glare reduction. 	Polarized 	$189.00
+Ray-Ban Wayfarer Classic
+
+The Wayfarer Classic from Ray-Ban is a timeless piece that has been a fashion staple for decades. Its bold frame is suitable for any face shape, making it a versatile choice for both casual and formal occasions.
+
+    Lens Type: Polarized
+    Price: $154.00
+    Additional Features: 100% UV protection, available in multiple color options.
+
+Oakley Holbrook
+
+The Holbrook sunglasses by Oakley combine style with functionality, designed for those who enjoy an active lifestyle. The lightweight frame ensures comfort during long wear, while the sporty look adds a touch of flair.
+
+    Lens Type: Mirrored
+    Price: $140.00
+    Perfect For: Outdoor activities like hiking, biking, and running.
+
+Maui Jim Peahi
+
+The Peahi sunglasses are crafted for water sports enthusiasts. With their lightweight design and advanced lens technology, they provide excellent clarity and protection against glare, making them ideal for activities like surfing and sailing.
+
+    Lens Type: Polarized
+    Price: $189.00
+    Special Feature: Anti-reflective coating for enhanced performance on the water.
+
+Persol 714
+
+The Persol 714 sunglasses are a true representation of sophistication and style. Known for their signature folding design, they are perfect for those who appreciate luxury and want to make a statement.
+
+    Lens Type: Non-Polarized
+    Price: $300.00
+    Unique Selling Point: Made in Italy with high-quality materials.
+
+Costa Del Mar Fantail
+
+Designed specifically for anglers, the Fantail sunglasses feature advanced polarized lenses that significantly reduce glare from the water. These sunglasses are not just functional; they also come with a stylish design.
+
+    Lens Type: Polarized
+    Price: $189.00
+    Ideal For: Fishing, boating, and other water-related activities.
+
+This detailed catalog provides an overview of our most popular sunglasses, with essential information to help customers make informed decisions.
+4 Brief Description
+Brief Description
+
+In this section, we provide a concise overview of each sunglass model available in our product catalog. Each entry includes essential details that help customers make informed purchasing decisions. Below is a compilation of select sunglasses, showcasing their unique features and benefits.
+Example Sunglasses
+SKU Number 	Brand 	Style Name 	Lens Type 	Price
+001 	Ray-Ban 	Wayfarer Classic 	Polarized 	$154.00
+002 	Oakley 	Holbrook 	Mirrored 	$173.00
+003 	Maui Jim 	Peahi 	Polarized 	$249.00
+004 	Persol 	714 Series 	Gradient 	$319.00
+005 	Smith 	Guide's Choice 	Polarized 	$199.00
+Detailed Descriptions
+
+    Ray-Ban Wayfarer Classic
+    The quintessential aviator sunglasses that have defined style for decades. Featuring a sturdy yet lightweight frame, these sunglasses come with polarized lenses that reduce glare and enhance clarity, making them perfect for sunny day adventures.
+
+    Oakley Holbrook
+    Combining style and function, the Holbrook sunglasses are designed for the active individual. The mirrored lenses provide enhanced visual clarity and protection, while the durable frame ensures they can withstand outdoor activities.
+
+    Maui Jim Peahi
+    These sunglasses are specifically designed for water sports enthusiasts. The polarized lenses not only reduce glare from the water but also enhance color and contrast, making them ideal for fishing or boating. The lightweight design ensures comfort during prolonged wear.
+
+    Persol 714 Series
+    A classic foldable design, the Persol 714 combines elegance with practicality. The gradient lenses offer a sophisticated look while providing UV protection. A must-have for those who appreciate high-quality craftsmanship.
+
+    Smith Guide's Choice
+    Perfect for the outdoorsman, these polarized sunglasses feature advanced lens technology that enhances depth perception and reduces eye fatigue. The lightweight and durable frame makes them suitable for any adventure, from hiking to fishing.
+
+Each of these sunglasses not only serves to protect your eyes but also enhances your style. With various lens types and styles available, our catalog ensures that there is a perfect pair for everyone, whether you prioritize performance, fashion, or both.
+Lens Features
+Lens Features
+
+When selecting the perfect pair of sunglasses, the type of lens can significantly impact both performance and comfort. Below is an overview of the various lens types and features available in our product catalog. Each lens type offers distinct advantages tailored to different activities and environmental conditions.
+Lens Types
+
+    Polarized Lenses
+        Reduce glare from reflective surfaces such as water, snow, and pavement.
+        Ideal for outdoor activities like fishing, boating, and skiing.
+        Enhance visual clarity and comfort in bright conditions.
+
+    Mirror Coated Lenses
+        Feature a reflective coating that reduces the amount of light entering the eye.
+        Available in various colors (e.g., silver, gold, blue).
+        Perfect for high-glare environments; popular among athletes and outdoor enthusiasts.
+
+    Photochromic Lenses
+        Darken in response to UV light and clear up indoors.
+        Provide convenience for those who frequently transition between indoor and outdoor settings.
+        Excellent for everyday use, offering protection from UV rays and comfort.
+
+    Gradient Lenses
+        Transition from a darker tint at the top to a lighter tint at the bottom.
+        Provide protection from overhead sunlight while allowing for better visibility of objects below.
+        Suitable for driving and casual wear.
+
+Lens Specifications Table
+SKU 	Brand 	Style Name 	Lens Type 	Description 	Price
+SG-101 	Ray-Ban 	Wayfarer Classic 	Polarized 	Iconic style with polarized lenses for reduced glare. 	$150
+SG-102 	Oakley 	Holbrook 	Mirror 	Sporty design with a reflective lens, perfect for athletes. 	$170
+SG-103 	Maui Jim 	Peahi 	Photochromic 	Versatile sunglasses that adapt to changing light conditions. 	$250
+SG-104 	Smith 	Lowdown 2 	Gradient 	Stylish and functional with a gradient lens for driving. 	$130
+Additional Lens Features
+
+    UV Protection
+        All lenses offer 100% UV protection, shielding your eyes from harmful UVA and UVB rays.
+
+    Scratch Resistance
+        Many of our lenses come with a scratch-resistant coating to ensure longevity and durability.
+
+    Anti-Reflective Coating
+        Reduces reflections from the back surface of the lenses, enhancing clarity and comfort.
+
+By understanding the various lens features, customers can make informed decisions based on their specific needs and preferences. Whether for sports, leisure, or everyday wear, our selection caters to a wide range of activities and environments.
+1 Lens Type
+
+Sunglasses come in various lens types, each designed to enhance vision, reduce glare, and provide different levels of protection from harmful UV rays. Understanding the different lens types can help customers make informed choices based on their specific needs and preferences. Below are the primary lens types available in our product catalog:
+Lens Types
+
+    Polarized Lenses
+        Description: Polarized lenses are coated with a special filter that reduces glare from surfaces like water, roads, and snow. This makes them ideal for outdoor activities such as fishing, skiing, and driving.
+        Benefits:
+            Enhanced clarity and contrast
+            Reduced eye strain
+            Improved safety while driving
+
+    Mirrored Lenses
+        Description: Mirrored lenses have a reflective coating on the outside, which helps to further reduce glare. They are not only functional but also trendy, offering a striking look.
+        Benefits:
+            Blocks more light from entering the eyes
+            Stylish and fashionable options
+            Perfect for bright sunny days
+
+    Photochromic Lenses
+        Description: These lenses automatically darken in response to sunlight and become clear in low light. They provide versatility for wearers who transition between indoor and outdoor environments.
+        Benefits:
+            Convenient for all-day wear
+            UV protection that adapts to lighting conditions
+            Reduces the need for multiple pairs of sunglasses
+
+    UV Protection Lenses
+        Description: UV protection lenses are treated to block harmful ultraviolet rays. They are essential for safeguarding eye health, especially during prolonged sun exposure.
+        Benefits:
+            Prevents cataracts and other eye issues
+            Available in various styles and shades
+            Can be combined with other lens types for enhanced performance
+
+Lens Type Comparison Table
+Lens Type 	Glare Reduction 	UV Protection 	Versatility 	Ideal Use Cases
+Polarized 	High 	Yes 	Moderate 	Fishing, skiing, driving
+Mirrored 	Moderate 	Yes 	Low 	Fashion, bright sunny environments
+Photochromic 	Moderate 	Yes 	High 	Indoor/outdoor transition
+UV Protection 	Low 	Yes 	Low 	Everyday wear
+
+By understanding these lens types, customers can select sunglasses that not only match their style but also meet their functional needs. Whether you're looking for the perfect pair for a day at the beach or a sporty option for outdoor adventures, we offer a variety of sunglasses tailored to fit these requirements.
+1.1 Polarized
+Polarized Sunglasses
+
+Polarized sunglasses are designed to reduce glare from surfaces such as water, roads, and snow, making them ideal for outdoor activities. Below is a detailed list of our polarized sunglasses offerings, complete with SKU numbers, brand, style name, descriptions, lens types, and prices.
+SKU 	Brand 	Style Name 	Description 	Lens Type 	Price
+PS001 	Ray-Ban 	RB2132 New Wave 	Classic aviator shape with a modern twist, perfect for everyday wear. 	Polarized 	$150.00
+PS002 	Oakley 	OO9208 Flak 2.0 	Sporty, wrap-around design ideal for high-impact activities. 	Polarized 	$180.00
+PS003 	Maui Jim 	MJ4290 Peahi 	Lightweight frame with a unique color palette, great for beach days. 	Polarized 	$250.00
+PS004 	Costa Del Mar 	580P Caballito 	Durable, high-performance sunglasses designed for fishing and boating. 	Polarized 	$200.00
+PS005 	Smith 	Lowdown 2 	Stylish and versatile, featuring a medium fit for all-day comfort. 	Polarized 	$170.00
+Key Features of Polarized Sunglasses
+
+    Glare Reduction: Polarized lenses significantly diminish glare, enhancing visual clarity.
+    UV Protection: All polarized sunglasses offer 100% UV protection to safeguard your eyes from harmful rays.
+    Enhanced Contrast: Colors appear more vibrant and details are sharper due to the anti-reflective properties of polarized lenses.
+
+Frequently Asked Questions
+
+    What are the benefits of polarized lenses?
+        They improve visibility in bright conditions, reduce eye strain, and enhance overall comfort.
+
+    Are polarized sunglasses suitable for driving?
+        Yes, they are excellent for driving, especially in sunny conditions, as they minimize glare from the road.
+
+    Can I wear polarized sunglasses for fishing?
+        Absolutely! They help you see beneath the surface of the water, making them ideal for anglers.
+
+If you have any questions about specific models or their features, feel free to reach out for more information!
+1.2 Mirror
+Mirror Sunglasses
+
+Mirror sunglasses are designed with a reflective coating on the outer surface of the lenses, providing not only a stylish look but also enhanced glare reduction. These sunglasses are ideal for outdoor activities, offering both UV protection and a unique aesthetic. Below is a list of mirror sunglasses available in our catalog, complete with their details.
+SKU 	Brand 	Style Name 	Description 	Lens Type 	Price
+MIRR001 	Ray-Ban 	RB3025 Aviator 	Classic aviator style with a mirrored finish, perfect for both men and women. 	Mirror 	$180
+MIRR002 	Oakley 	OO9208 Radar EV 	Sporty design with a large lens for maximum coverage, featuring Prizm™ technology. 	Mirror 	$210
+MIRR003 	Maui Jim 	Makai 	Designed for water sports; lightweight and comfortable with a polarized mirror lens. 	Polarized Mirror 	$250
+MIRR004 	Costa Del Mar 	Fantail 	Perfect for fishing enthusiasts, offering high-performance polarized mirror lenses. 	Polarized Mirror 	$220
+MIRR005 	Smith 	Lowdown 2 	Stylish frame with a modern look, featuring ChromaPop™ technology for enhanced color. 	Mirror 	$180
+Key Features of Mirror Sunglasses
+
+    Glare Reduction: The mirrored finish reflects light, reducing glare and enhancing visibility in bright conditions.
+    UV Protection: All models include 100% UV protection, shielding eyes from harmful rays.
+    Stylish Appearance: The reflective lenses add a fashionable touch, making them suitable for both casual and sporty looks.
+
+Popular Uses
+
+    Outdoor Sports: Ideal for activities like cycling, skiing, and beach volleyball due to their glare-reducing properties.
+    Everyday Wear: Many styles can easily transition from active use to everyday fashion, making them versatile accessories.
+
+Care Instructions
+
+To maintain the quality and longevity of mirror sunglasses:
+
+    Clean lenses gently with a microfiber cloth to avoid scratches.
+    Store in a protective case when not in use.
+    Avoid exposing lenses to harsh chemicals or extreme temperatures.
+
+For additional questions about specific products or to check availability, please contact our customer service team.
+1.3 Gradient
+Gradient Sunglasses
+
+Gradient sunglasses feature lenses that transition smoothly from a darker shade at the top to a lighter shade at the bottom. This design not only enhances style but also provides varying levels of UV protection and visual comfort. Below is a curated selection of gradient sunglasses available in our catalog.
+SKU 	Brand 	Style Name 	Description 	Lens Type 	Price
+GS-1001 	Ray-Ban 	RB2132 New Wayfarer 	Iconic Wayfarer silhouette with a modern twist, featuring a gradient lens transitioning from dark gray to light gray. 	Gradient 	$154.00
+GS-1002 	Oakley 	OO9208 Radar EV 	Sporty design with a full-rim frame; the gradient lens offers optimal visibility in bright conditions. Available in multiple colors. 	Gradient 	$196.00
+GS-1003 	Maui Jim 	Ho'okipa 	Lightweight and comfortable with polarized gradient lenses that provide excellent color and contrast. Ideal for beach activities. 	Polarized Gradient 	$249.00
+GS-1004 	Prada 	PR 17WS 	High-fashion cat-eye sunglasses featuring a luxurious gradient lens that complements various face shapes. 	Gradient 	$350.00
+GS-1005 	Gucci 	GG0061S 	Bold aviator style with a gradient lens, perfect for a statement look. Made from high-quality materials for durability. 	Gradient 	$450.00
+Featured Products
+
+    Ray-Ban RB2132 New Wayfarer
+        Description: This timeless classic is updated with a gradient lens for a modern look while maintaining the iconic Wayfarer aesthetic. Perfect for casual outings and outdoor adventures.
+        Lens Type: Gradient
+        Price: $154.00
+
+    Maui Jim Ho'okipa
+        Description: Designed for those who love the outdoors, these sunglasses feature lightweight frames and polarized gradient lenses that block harmful rays while enhancing visibility.
+        Lens Type: Polarized Gradient
+        Price: $249.00
+
+    Gucci GG0061S
+        Description: A luxurious choice for fashion-forward individuals, these aviators come with a striking gradient effect, making them a must-have accessory for any outfit.
+        Lens Type: Gradient
+        Price: $450.00
+
+Gradient sunglasses not only provide UV protection but also adapt well to various lighting conditions, making them suitable for both driving and leisurely activities. Whether you prefer a sporty look or a high-fashion statement, our selection of gradient sunglasses caters to diverse tastes and needs.
+2 UV Protection Level
+
+UV protection is a critical feature of sunglasses, ensuring that your eyes are shielded from harmful ultraviolet rays. In our product catalog, we categorize sunglasses based on their UV protection levels, which can significantly influence their effectiveness in safeguarding your vision.
+UV Protection Levels
+
+Sunglasses typically offer varying degrees of UV protection, categorized into three main levels: UV400, UV300, and UV200. The higher the UV protection level, the more effective the sunglasses are at blocking harmful rays.
+UV Protection Level 	Description 	Percentage of UV Rays Blocked
+UV400 	Blocks 99-100% of UVA and UVB rays 	99-100%
+UV300 	Blocks 95-99% of UVA and UVB rays 	95-99%
+UV200 	Blocks 85-95% of UVA and UVB rays 	85-95%
+UV400 Sunglasses
+
+    Ideal for: Outdoor sports, beach activities, and prolonged sun exposure.
+    Features: Highest level of UV protection, ensuring complete safety from UV rays.
+    Example Products:
+        SKU: SG-001
+            Brand: SunGuard
+            Style Name: Ocean Wave
+            Description: Lightweight and durable, these sunglasses feature a wraparound design for maximum coverage.
+            Lens Type: Polarized
+            Price: $120
+
+UV300 Sunglasses
+
+    Ideal for: Casual wear and everyday use, providing a good balance of style and protection.
+    Features: Excellent protection against harmful UV rays, suitable for most outdoor activities.
+    Example Products:
+        SKU: SG-002
+            Brand: ShadePro
+            Style Name: Classic Aviator
+            Description: Timeless aviator style with a sleek metal frame and gradient lenses.
+            Lens Type: Mirror
+            Price: $85
+
+UV200 Sunglasses
+
+    Ideal for: Occasional outdoor use, such as short walks or driving.
+    Features: Basic level of UV protection, suitable for low exposure situations.
+    Example Products:
+        SKU: SG-003
+            Brand: TrendEye
+            Style Name: Retro Cat Eye
+            Description: Fashion-forward cat-eye design with bold colors and a chic finish.
+            Lens Type: Non-polarized
+            Price: $60
+
+In choosing the right pair of sunglasses, consider not only the style and comfort but also the level of UV protection that best suits your lifestyle. Each category provides essential features for different activities, ensuring that your eyes remain protected while enjoying the outdoors.
+Pricing Details
+Pricing Details
+
+Understanding the pricing structure of our sunglasses is essential for customers looking to make informed purchasing decisions. Our pricing is determined by various factors, including brand reputation, material quality, lens technology, and design complexity. Below is a detailed breakdown of our pricing tiers and examples of products from each category.
+Pricing Tiers
+
+    Budget-Friendly: $30 - $60
+        Ideal for casual wear and everyday use.
+        Basic UV protection with minimal lens enhancements.
+
+    Mid-Range: $61 - $120
+        Offers better lens technology, including polarization and anti-scratch coatings.
+        Stylish designs suitable for both casual and semi-formal settings.
+
+    Premium: $121 - $250
+        High-end materials, advanced lens technology (e.g., photochromic, mirror).
+        Designer brands featuring exclusive collections.
+
+    Luxury: $251 and above
+        Exclusive brand collaborations and limited editions.
+        Customizable options and premium packaging.
+
+Example Products
+SKU 	Brand 	Style Name 	Description 	Lens Type 	Price
+SG001 	Ray-Ban 	Wayfarer Classic 	Iconic rectangular sunglasses with a timeless design. 	Polarized 	$150
+SG002 	Oakley 	Holbrook 	Sporty sunglasses with a lightweight frame and optimal coverage. 	Polarized 	$120
+SG003 	Maui Jim 	Peahi 	Wrap-around sunglasses designed for water sports; superior glare reduction. 	Polarized 	$250
+SG004 	Persol 	714 	Foldable sunglasses featuring a stylish frame and handcrafted quality. 	UV Protection 	$220
+SG005 	Gucci 	GG0061S 	Luxurious sunglasses with gold accents and a bold design. 	Mirror 	$450
+Additional Pricing Information
+
+    Discounts: Seasonal promotions may apply, offering 10-30% off selected styles.
+    Bundle Deals: Purchase two or more pairs and receive an additional 15% off the total price.
+    Warranty: All sunglasses come with a one-year warranty against manufacturing defects.
+
+By providing a diverse range of sunglasses at various price points, we aim to cater to different customer preferences and budgets. Feel free to reach out if you have any questions about specific products or pricing options.
+1 Retail Price
+
+The retail price of sunglasses varies based on several factors, including the brand, materials used, and special features. Below is a selection of sunglasses available in our catalog, showcasing a range of prices to suit different budgets.
+SKU Number 	Brand 	Style Name 	Description 	Lens Type 	Price ($)
+001 	Ray-Ban 	Wayfarer 	Classic design with a bold look. 	Polarized 	150.00
+002 	Oakley 	Holbrook 	Sporty frame with a lightweight feel. 	UV Protection 	130.00
+003 	Maui Jim 	Peahi 	Stylish and functional for outdoor use. 	Polarized 	220.00
+004 	Prada 	PR 17RS 	High-fashion sunglasses with unique flair. 	Mirror 	300.00
+005 	Smith 	Lowdown 2 	Versatile shades with a sporty edge. 	Polarized 	149.00
+Price Ranges by Brand
+
+    Ray-Ban: $150 - $200
+    Oakley: $100 - $180
+    Maui Jim: $200 - $300
+    Prada: $250 - $400
+    Smith: $100 - $200
+
+Factors Influencing Price
+
+    Materials: Frames made from premium materials like titanium or acetate tend to be more expensive.
+    Lens Technology: Advanced lens technologies such as polarization or mirror finishes can increase the price.
+    Brand Reputation: Well-known brands with a strong market presence often command higher prices.
+    Design Complexity: Unique or limited-edition designs are typically priced higher due to their exclusivity.
+
+This pricing structure allows customers to choose sunglasses that fit both their style and budget, ensuring a wide selection for all preferences. For further inquiries about specific products or features, please refer to the SKU numbers listed above.
+2 Discounts and Promotions
+Discounts and Promotions
+
+Our store is committed to providing our customers with the best value on high-quality sunglasses. To enhance your shopping experience, we offer various discounts and promotions throughout the year. Below are the current promotions available for our sunglasses collection:
+Seasonal Promotions
+
+    Summer Sale (June 1 - August 31)
+        Enjoy a 20% discount on select styles.
+        Brands included: Ray-Ban, Oakley, and Maui Jim.
+
+    Back to School (August 15 - September 15)
+        Receive 15% off when purchasing two or more pairs.
+        Applicable to all brands.
+
+Holiday Specials
+
+    Black Friday (November 24)
+        One-day event: Buy one, get one 50% off on all sunglasses.
+
+    Christmas Countdown (December 1 - December 24)
+        Daily deals featuring different brands at up to 30% off.
+
+Loyalty Program
+
+Join our Sunglass Loyalty Club to earn points with every purchase. Points can be redeemed for discounts on future purchases. Here’s a quick overview of how the program works:
+Tier Level 	Points Required 	Reward
+Silver 	100 	$10 off your next purchase
+Gold 	250 	15% off your next purchase
+Platinum 	500 	Free pair of sunglasses up to $150
+Referral Program
+
+Refer a friend and both of you will receive $15 off your next purchase when they make their first order.
+Additional Discounts
+
+    Student Discount: Valid student ID required for 10% off any purchase.
+    Military Discount: Active service members and veterans can enjoy a 15% discount on all items.
+
+Limitations and Exclusions
+
+    Discounts cannot be combined with other offers.
+    Certain premium brands may be excluded from promotional offers.
+    All promotional prices are subject to change and may vary based on inventory.
+
+For the latest updates on discounts and promotions, subscribe to our newsletter or follow us on social media. This will ensure you never miss a deal on your favorite sunglasses!
+3 Availability Status
+Availability Status
+
+The availability of each sunglass model is categorized to help customers determine whether a specific product can be purchased immediately or is currently out of stock. Below is a detailed overview of the availability status for our sunglasses collection:
+Availability Categories
+
+    In Stock: These items are readily available for purchase and can be shipped immediately.
+    Limited Stock: Only a few units are left in our inventory. We recommend purchasing these items soon to avoid missing out.
+    Out of Stock: These products are currently unavailable. However, customers can sign up for notifications when they are back in stock.
+    Pre-Order: These items are not yet available but can be reserved. Customers will be notified when the product is ready for shipment.
+
+Current Availability Status Table
+SKU 	Brand 	Style Name 	Availability Status 	Price
+SG001 	Ray-Ban 	Wayfarer Classic 	In Stock 	$154.00
+SG002 	Oakley 	Holbrook 	Limited Stock 	$140.00
+SG003 	Maui Jim 	Peahi 	Out of Stock 	$199.00
+SG004 	Smith 	Lowdown 2 	Pre-Order 	$169.00
+SG005 	Costa Del Mar 	Fantail 	In Stock 	$189.00
+Product Availability Notes
+
+    Ray-Ban Wayfarer Classic (SG001): This iconic style is currently available in multiple colors. With its timeless design, it remains a popular choice among customers.
+
+    Oakley Holbrook (SG002): As a favored model for outdoor enthusiasts, limited stock is available. Act quickly, as these tend to sell out fast during peak seasons.
+
+    Maui Jim Peahi (SG003): This model is currently out of stock, but customers can expect a new shipment within the next month. Signing up for notifications will ensure you are informed as soon as they are available.
+
+    Smith Lowdown 2 (SG004): Available for pre-order, these sunglasses are expected to arrive within six weeks. Reserve yours today to secure your pair.
+
+    Costa Del Mar Fantail (SG005): In stock and ready to ship, this model is ideal for fishing enthusiasts. It features polarized lenses that reduce glare, making it a practical choice for outdoor activities.
+
+By providing clear availability statuses, customers can easily navigate our sunglass offerings and make informed purchasing decisions. For further inquiries, please contact our customer service team.
