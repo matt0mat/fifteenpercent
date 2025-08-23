@@ -11,6 +11,7 @@ CREATE TABLE tenants (
 CREATE TABLE documents (
   doc_id TEXT PRIMARY KEY,
   tenant_id TEXT NOT NULL REFERENCES tenants(tenant_id) ON DELETE CASCADE,
+  playground_id TEXT, -- This is the fix: we add the column
   filename TEXT NOT NULL,
   mime TEXT NOT NULL,
   file_hash TEXT NOT NULL,

@@ -27,16 +27,19 @@ export default function usePlaygrounds(apiBase) {
   }, [apiBase]);
 
   const create = useCallback(
-    async ({ name, description }) => {
+    async ({ name, description, tenant_id }) => {
       if (!apiBase) return null;
       setErr(null);
       try {
         const r = await fetch(`${apiBase}/playgrounds`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ name, description }),
+          body: JSON.stringify({ name, description, tenant_id }),
         });
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        if (!r.ok) {
+          const txt = await r.text().catch(() => "");
+          throw new Error(`HTTP ${r.status} ${txt}`);
+        }
         const data = await r.json();
         await list();
         return data;

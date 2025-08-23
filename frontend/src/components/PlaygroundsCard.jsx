@@ -1,7 +1,8 @@
 // src/components/PlaygroundsCard.jsx
 import React, { useMemo, useState } from "react";
-import tokens from "../theme/tokens";
+import { v4 as uuidv4 } from 'uuid'; // ⬅️ Import the UUID generator
 import usePlaygrounds from "../hooks/usePlaygrounds";
+import tokens from "../theme/tokens";
 
 const ui = {
   line: "rgba(255,255,255,0.10)",
@@ -23,7 +24,16 @@ export default function PlaygroundsCard({ apiBase, value, onChange }) {
 
   const handleCreate = async () => {
     if (!name.trim()) return;
-    const pg = await create({ name: name.trim(), description: description.trim() });
+
+    // ⬅️ Generate a NEW, unique tenant_id for the new playground
+    const newTenantId = uuidv4(); 
+
+    const pg = await create({ 
+      name: name.trim(), 
+      description: description.trim(), 
+      tenant_id: newTenantId // ⬅️ Pass the new ID
+    });
+    
     if (pg?.id) {
       onChange?.(pg.id);
       setShowNew(false);
