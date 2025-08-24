@@ -1,14 +1,9 @@
 import { useEffect, useState } from 'react';
 import useApiBase from './hooks/useApiBase';
+import WorkspaceManager from './components/WorkspaceManager';
 
 /* --- Placeholder Components (to be built later) --- */
 const HealthIndicator = () => null;
-const WorkspaceManager = () => (
-    <div className="p-4 border border-gray-300 rounded-lg">
-        <h2 className="text-xl font-semibold mb-2">Workspaces</h2>
-        <p>This is where you'll manage your workspaces.</p>
-    </div>
-);
 const WorkspaceDetail = () => (
     <div className="p-4 border border-gray-300 rounded-lg">
         <h2 className="text-xl font-semibold mb-2">Workspace Detail</h2>
