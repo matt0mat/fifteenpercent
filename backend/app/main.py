@@ -8,24 +8,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 # --- Core routers ---
-from .routes import health, ingest, query, verify, synth
-
-# Try playground routers with direct module-path imports (no reliance on __all__)
-PlaygroundsRouterType = Optional[object]
-playgrounds_router: PlaygroundsRouterType = None
-try:
-    # Preferred: routes/playgrounds.py
-    from .routes.playgrounds import router as playgrounds_router  # type: ignore[assignment]
-except Exception:
-    try:
-        # Alt legacy: routes/playgrounds_service.py
-        from .routes.playgrounds_service import router as playgrounds_router  # type: ignore[assignment]
-    except Exception:
-        try:
-            # Alt service version: services/playgrounds_service.py
-            from .services.playgrounds_service import router as playgrounds_router  # type: ignore[assignment]
-        except Exception:
-            playgrounds_router = None
+from .routes import health, ingest, query, verify, synth, playgrounds
 
 APP_NAME = os.getenv("APP_NAME", "FifteenPercent Core API")
 APP_VERSION = os.getenv("APP_VERSION", "0.0.1")
@@ -64,9 +47,7 @@ app.include_router(ingest.router, prefix="/ingest", tags=["ingest"])
 app.include_router(query.router, prefix="/query", tags=["query"])
 app.include_router(verify.router, prefix="/verify", tags=["verify"])
 app.include_router(synth.router, prefix="/synth", tags=["synth"])
-
-if playgrounds_router:
-    app.include_router(playgrounds_router, prefix="/playgrounds", tags=["playgrounds"])
+app.include_router(playgrounds.router, prefix="/playgrounds", tags=["playgrounds"])
 
 # ---------------- Convenience routes ----------------
 @app.get("/")
@@ -81,6 +62,6 @@ def root():
             "/query",
             "/verify",
             "/synth",
-            "/playgrounds" if playgrounds_router else None,
+            "/playgrounds",
         ],
     }
