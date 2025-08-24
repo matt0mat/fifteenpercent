@@ -8,7 +8,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 # --- Core routers ---
-from .routes import health, ingest, query, verify, synth, playgrounds
+from .routes import health, synth, workspaces
 
 APP_NAME = os.getenv("APP_NAME", "FifteenPercent Core API")
 APP_VERSION = os.getenv("APP_VERSION", "0.0.1")
@@ -43,11 +43,8 @@ app.add_middleware(
 
 # --------------- Router registration ---------------
 app.include_router(health.router, prefix="/health", tags=["health"])
-app.include_router(ingest.router, prefix="/ingest", tags=["ingest"])
-app.include_router(query.router, prefix="/query", tags=["query"])
-app.include_router(verify.router, prefix="/verify", tags=["verify"])
 app.include_router(synth.router, prefix="/synth", tags=["synth"])
-app.include_router(playgrounds.router, prefix="/playgrounds", tags=["playgrounds"])
+app.include_router(workspaces.router, prefix="/workspaces", tags=["workspaces"])
 
 # ---------------- Convenience routes ----------------
 @app.get("/")
@@ -58,10 +55,7 @@ def root():
         "version": APP_VERSION,
         "routers": [
             "/health",
-            "/ingest",
-            "/query",
-            "/verify",
             "/synth",
-            "/playgrounds",
+            "/workspaces",
         ],
     }
